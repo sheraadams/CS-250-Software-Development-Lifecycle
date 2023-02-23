@@ -1,9 +1,16 @@
-# CS250
-Work for CS250 Software Development Lifecycle
+## Documentation
+
+Assignment for CS250 Software Development Lifecycle
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 User stories are powerful tools that enable the developer to interpret the needs of the user and implement them into a program. By selecting user stories that convey the intended effect and purpose of the application, the developer can begin to see the program from the end-user’s perspective and use this vision to drive development in a more directed way. Without user stories, developers may struggle to understand the user’s point of view see the final product in context. User stories bridge the gap between the user and the development process and make expectations easier to envision. 
 
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
 My approach to software development is an agile style that is open to feedback and improvement throughout the software development lifecycle. Rather than taking a waterfall or wait-and-see approach, working software should be available throughout the development process and not just as a final product. Software development should always be adaptable and evolving and informed by the business environment it serves to be effective.
+
+What does it mean to be a good team member in software development?
 
 Teamwork and collaboration are also extremely important factors in a software development environment. The most effective teams are those that work with clarity and openness on their side. As a team member, collaboration and communication are my responsibilities and I believe that effective communication is the number one key to the success of any software development project.  
 
